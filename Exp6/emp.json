@@ -1,0 +1,32 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "department": "HR",
+        "salary": 50000
+    },
+    {
+        "name": "Jane Smith",
+        "age": 25,
+        "department": "IT",
+        "salary": 60000
+    },
+    {
+        "name": "Alice Johnson",
+        "age": 35,
+        "department": "Finance",
+        "salary": 70000
+    },
+    {
+        "name": "Bob Brown",
+        "age": 28,
+        "department": "Marketing",
+        "salary": 55000
+    },
+    {
+        "name": "Charlie Black",
+        "age": 45,
+        "department": "IT",
+        "salary": 80000
+    }
+]
